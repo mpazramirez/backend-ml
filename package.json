@@ -1,0 +1,28 @@
+{
+  "name": "testml",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mpazramirez/testML.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mpazramirez/testML/issues"
+  },
+  "homepage": "https://github.com/mpazramirez/testML#readme",
+  "dependencies": {
+    "axios": "^1.7.5",
+    "cors": "^2.8.5",
+    "express": "^4.19.2",
+    "https": "^1.0.0",
+    "request-promise": "^4.2.6"
+  }
+}
